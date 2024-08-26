@@ -1,0 +1,22 @@
+{
+  "name": "kitsune-template",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node tools/setup.js"
+  },
+  "keywords": [
+    "kitsune",
+    "tails",
+    "retro",
+    "mario",
+    "tiled"
+  ],
+  "author": "konsumer",
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^11.0.0",
+    "steam-game-path": "github:RobLoach/steam-game-path#flatpak"
+  }
+}
