@@ -38,4 +38,6 @@ cd  ~/.local/share/KitsuneTails/levels/MYGAME
 npm it
 ```
 
+Now, you can edit maps in [Tiled](https://www.mapeditor.org/), and open any built-in maps in `deps/Content/`.
+
 Users who have installed flatpak version of Tiled & Steam will have issues, so it's recommended you install a non-flatpak version of 1 of those (I install non-flatpak Steam.)
