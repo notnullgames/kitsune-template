@@ -22,7 +22,7 @@ $XDG_DATA_HOME/KitsuneTails/levels
 ~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/KitsuneTails/levels
 ```
 
-Grab [the latest release](./releases) and extract to your `levels/` dir. Open Kitsune Tails, and "Mods", and you should see "MYGAME".
+Grab [the latest release](https://github.com/MYORG/MYGAME/releases) and extract to your `levels/` dir. Open Kitsune Tails, and "Mods", and you should see "MYGAME".
 
 
 ## Development
