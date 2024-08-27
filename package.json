@@ -18,5 +18,8 @@
   "devDependencies": {
     "glob": "^11.0.0",
     "steam-game-path": "github:RobLoach/steam-game-path#flatpak"
+  },
+  "dependencies": {
+    "tester": "^1.4.5"
   }
 }
